@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-[treborkatalbas.github.io](https://trebor-katalbas.github.io/treborkatalbas/)
+[treborkatalbas.github.io](https://trebor-katalbas.github.io/treborkatalbas.io/)
 
 ## MAIL
 
