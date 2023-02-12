@@ -1,6 +1,6 @@
 ## PORTFOLIO
 
-[treborkatalbas.github.io](https://trebor-katalbas.github.io/portfolio/)
+[treborkatalbas-portfolio](https://trebor-katalbas.github.io/portfolio/)
 
 ## PROTOTYPE
 [eliterides-prototype (unfinished)](https://trebor-katalbas.github.io/eliterides-mockup/)
