@@ -2,7 +2,7 @@
 
 [treborkatalbas-portfolio](https://trebor-katalbas.github.io/portfolio/)
 
-## PROTOTYPE
+## PROTOTYPES
 [eliterides-prototype (unfinished)](https://trebor-katalbas.github.io/eliterides-mockup/)
 
 ## MAIL
