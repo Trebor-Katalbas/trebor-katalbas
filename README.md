@@ -3,7 +3,8 @@
 [treborkatalbas-portfolio](https://trebor-katalbas.github.io/portfolio-v1/)
 
 ## PROTOTYPES
-[eliterides-prototype (unfinished)](https://trebor-katalbas.github.io/eliterides-mockup/)
+- [eliterides-prototype (unfinished)](https://trebor-katalbas.github.io/eliterides-mockup/)
+- [HowToSurviveSTEM-prototype (unfinished)](https://trebor-katalbas.github.io/HowToSurviveSTEM/)
 
 ## MAIL
 
