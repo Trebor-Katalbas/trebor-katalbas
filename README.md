@@ -2,10 +2,11 @@
 
 [treborkatalbas-portfolio](https://trebor-katalbas.github.io/portfolio-v1/)
 
-## PROTOTYPES
-- [eliterides-prototype (unfinished)](https://trebor-katalbas.github.io/eliterides-mockup/)
-- [HowToSurviveSTEM-prototype (unfinished)](https://trebor-katalbas.github.io/HowToSurviveSTEM/)
-- [SwiftResponse-prototype (unfinished)](https://trebor-katalbas.github.io/SwiftResponse/)
+## PROJECTS
+- [eliterides-prototype (unfinished) HTML/CSS](https://trebor-katalbas.github.io/eliterides-mockup/)
+- [HowToSurviveSTEM (ongoing) HTML/CSS/JS](https://trebor-katalbas.github.io/HowToSurviveSTEM/)
+- [SwiftResponse (unfinished) - PHP](https://trebor-katalbas.github.io/SwiftResponse/)
+- [DVD Rental System (on updates) - C#]
 
 ## MAIL
 
