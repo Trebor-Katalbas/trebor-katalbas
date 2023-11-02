@@ -6,7 +6,7 @@
 - [eliterides-prototype (unfinished) HTML/CSS](https://trebor-katalbas.github.io/eliterides-mockup/)
 - [HowToSurviveSTEM (ongoing) HTML/CSS/JS](https://trebor-katalbas.github.io/HowToSurviveSTEM/)
 - [SwiftResponse (unfinished) - PHP](https://trebor-katalbas.github.io/SwiftResponse/)
-- [DVD Rental System (on updates) - C#]
+- DVD Rental System (on updates) - C#
 
 ## MAIL
 
