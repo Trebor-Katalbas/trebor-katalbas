@@ -1,12 +1,13 @@
-## PORTFOLIO
+## PORTFOLIO (Outdated* - Version 1)
 
 [treborkatalbas-portfolio](https://trebor-katalbas.github.io/portfolio-v1/)
 
 ## PROJECTS
-- [eliterides-prototype (unfinished) HTML/CSS](https://trebor-katalbas.github.io/eliterides-mockup/)
-- [HowToSurviveSTEM (ongoing) HTML/CSS/JS](https://trebor-katalbas.github.io/HowToSurviveSTEM/)
-- [SwiftResponse (unfinished) - PHP](https://trebor-katalbas.github.io/SwiftResponse/)
-- DVD Rental System (on updates) - C#
+- [Jollibee-KSA (🔵ongoing) React.JS](https://jollibeeksa.netlify.app/)
+- [DKD-Marketing-Ecommerce (🟡maintenance phase) Next.JS](https://www.dkdmarketing.net/)
+- [DVD Rental System (🟡maintenance phase) - C#]()
+- [Sale-Savant (🟢completed) - MERN STACK](https://www.sale-savant.com/)
+- [AdZU:How-To-Survive-STEM (🟢completed) Vanilla STACK](https://trebor-katalbas.github.io/HowToSurviveSTEM/)
 
 ## MAIL
 
