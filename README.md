@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F789&center=true&vCenter=true&width=800&lines=Carl+Trebor+Katalbas;Independent+Full-stack+Developer;Learning+Computer+Science+%26+AI" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <a href="https://trebor-katalbas.github.io/portfolio-v1/" align="center">treborkatalbas-portfolio (*outdated)</a>
+  <a href="https://treborkatalbas.vercel.app/" align="center">treborkatalbas-portfolio (*in progress)</a>
 </p>
 <br>
 
