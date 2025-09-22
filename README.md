@@ -33,6 +33,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trebor-Katalbas&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
+  <br>
 </p>
 <br>
 
