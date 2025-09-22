@@ -29,6 +29,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br><br>
 
+## ✉ MAIL
+[carltrebors0110@gmail.com](mailto:carltrebors0110@gmail.com)  
+<br><br>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> GITHUB STATS </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p>
@@ -36,10 +40,5 @@
   <br>
 </p>
 <br>
-
-##
-##
-## ✉ MAIL
-[carltrebors0110@gmail.com](mailto:carltrebors0110@gmail.com)  
 
 
