@@ -33,8 +33,6 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trebor-Katalbas&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
-  <br>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Trebor-Katalbas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </p>
 <br>
 
