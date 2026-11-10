@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> GITHUB STATS </b>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Trebor-Katalbas&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
+  <img align="left" src="https://github-stats-extended.vercel.app/api/top-langs?username=Trebor-Katalbas&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" />
   <br>
 </p>
 <br>
