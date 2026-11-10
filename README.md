@@ -4,21 +4,7 @@
 <p align="center">
   <a href="https://treborkatalbas.vercel.app/" align="center">treborkatalbas-portfolio (*in progress)</a>
 </p>
-<br>
 
-## <img src="https://media.giphy.com/media/sUvXqhA9nukbIM0MyO/giphy.gif" width="30"><b> PROJECTS </b>
-<p align="center">
-    🟢<strong>Completed</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🟡<strong>Maintenance Phase</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔵<strong>Ongoing</strong>
-</p>
-<p align="right">
-  <ul>
-    <li>🔵 <a href="https://jollibeeksa.netlify.app/">Jollibee-KSA (React.JS)</a></li>
-    <li>🟡 <a href="https://www.dkdmarketing.net/">DKD-Marketing-Ecommerce (Next.JS)</a></li>
-    <li>🟡 <a href="https://github.com/Trebor-Katalbas/DVD_Rental_System">DVD Rental System (C#)</a></li>
-    <li>🟢 <a href="https://www.sale-savant.com/">Sale-Savant (MERN STACK)</a></li>
-    <li>🟢 <a href="https://trebor-katalbas.github.io/HowToSurviveSTEM/">AdZU: How-To-Survive-STEM (Vanilla Web Stack)</a></li>
-  </ul>
-</p>
 <br>
 
 ## <img src="https://media.giphy.com/media/MXoyvLVaXqYbi6KUhu/giphy.gif" width="30"><b> TECH STACK </b>
